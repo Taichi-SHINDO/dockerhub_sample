@@ -1,3 +1,4 @@
+demo    
     $ wget https://github.com/Taichi-SHINDO/dockerhub_sample/archive/master.zip
     $ unzip -o master.zip
     $ cd dockerhub_sample-master/
